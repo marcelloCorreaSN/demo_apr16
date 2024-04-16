@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_278065_amz_examp</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>AMZ example app</short_description>
+        <short_description>AMZ example app 2</short_description>
         <source>x_278065_amz_examp</source>
         <store_correlation_id/>
         <store_url/>
